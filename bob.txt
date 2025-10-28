@@ -5,6 +5,7 @@ My name is Avelyn Park.
     //ex. mkdir git-training => make a new folder
 //see hidden files by typing ls -Avelyn
 // git init => make file into directory for git
+    //you only need to do this once, and you can just git push after
 //git checkout folderName => switch branches
 //git add . => stage
 //git commit -m "message"
@@ -20,3 +21,4 @@ My name is Avelyn Park.
 //remote = something in the internet and is accessed over the network
 //remote branch = branch online in the internet like github
 //terminal => git clone httpsrepositorylink to clone and open it here
+
