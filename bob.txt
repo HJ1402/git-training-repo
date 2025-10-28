@@ -11,5 +11,12 @@ My name is Avelyn Park.
 //git log => shows file history
     // press Q to type again
 //git branch => shows a list of branches you have in the entire directory
-//git push
-    //git remote add repositoryname repositorygitlinkhttps
+//git push to commit your code to the repository
+    //git remote add repositoryname repositorygitlinkfromhttps
+    //git push or go right to =>
+        //git push --set-upstream repositorygitfilename master
+        //this command line pushes my code in the master to the github repository
+//Local = something on our own device or local network
+//remote = something in the internet and is accessed over the network
+//remote branch = branch online in the internet like github
+//terminal => git clone httpsrepositorylink to clone and open it here
