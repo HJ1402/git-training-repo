@@ -5,3 +5,9 @@ My name is Avelyn Park.
     //ex. mkdir git-training => make a new folder
 //see hidden files by typing ls -Avelyn
 // git init => make file into directory for git
+//git checkout folderName => switch branches
+//git add . => stage
+//git commit -, "message"
+//git log => shows file history
+    // press Q to type again
+//git branch => shows a list of branches you have in the entire directory
