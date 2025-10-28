@@ -1,1 +1,7 @@
 My name is Avelyn Park.
+//cd = change directory
+//ls = see the lists of files that you have in that directory
+//mkdir = make directory
+    //ex. mkdir git-training => make a new folder
+//see hidden files by typing ls -Avelyn
+// git init => make file into directory for git
